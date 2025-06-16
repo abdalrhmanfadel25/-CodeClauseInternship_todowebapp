@@ -82,5 +82,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Icons from [Font Awesome](https://fontawesome.com/)
-- Color scheme inspired by iOS design guidelines
+- Color scheme inspired by iOS 26 design guidelines
 - Calendar implementation based on modern web standards 
